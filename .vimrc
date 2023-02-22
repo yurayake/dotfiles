@@ -1,6 +1,7 @@
 source $VIMRUNTIME/defaults.vim
 
 set number
+set insertmode
 set shiftwidth=4
 set softtabstop=4
 
